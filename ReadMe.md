@@ -71,6 +71,10 @@ I am a **Robotics & Bionics Enthusiast** specializing in **Mechanical Design** a
 </p>
 
 ---
+### 📜 Check out my Resume
+<a href="Sameer Patwardhan Resume.pdf">My Resume</a>
+
+---
 
 <p align="center">
   <i>"Inspired by Passion"</i>
