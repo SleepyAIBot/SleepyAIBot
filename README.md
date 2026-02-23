@@ -1,13 +1,23 @@
 <!-- ================= BLACK HOLE CLEAN THEME ================= -->
 
-<div align="center">
-
-<img src="https://pin.it/1fRnhfv17" width="100%" />
-
 # Sameer Patwardhan  
 ### ⚫ Robotics • Bionics • Humanoids • ROS2
 
-</div>
+<body style="
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-image: url('BlackHole.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+">
+<div style="
+    min-height:200vh;
+    padding:50px;
+    color:white;
+    background: rgba(0,0,0,0.6);
+">
 
 ---
 
