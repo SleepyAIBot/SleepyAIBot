@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=2000&q=80" width="100%" />
+<img src="https://pin.it/1fRnhfv17" width="100%" />
 
 # Sameer Patwardhan  
 ### ⚫ Robotics • Bionics • Humanoids • ROS2
